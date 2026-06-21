@@ -4,7 +4,6 @@
 
 ### Providing Insights for a Crisis Recovery to an Online Food Delivery Startup
 
-<img src="Screenshots/Page1_Executive_Summary.png" alt="QuickBite Dashboard" width="900"/>
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -69,7 +68,7 @@ In June 2025, QuickBite faced a perfect storm of challenges:
 
 | Resource | Link |
 |----------|------|
-| 📊 Power BI File (.pbix) | [[Download from Google Drive]](https://drive.google.com/drive/folders/1ZGWaQeubpqqyapx6Qfn7gpzB1JX6dAHi) |
+| 📊 Power BI File (.pbix) | [https://drive.google.com/drive/folders/1ZGWaQeubpqqyapx6Qfn7gpzB1JX6dAHi]|
 
 </div>
 
